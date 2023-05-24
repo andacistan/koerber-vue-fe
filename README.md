@@ -1,18 +1,9 @@
-# koerber-vue-fe
+# Körber Device Manager App Vue.js Frontend Part
 
-> A Vue.js project
+## Available Scripts
 
-## Build Setup
+In the project directory, you can run:
+### `npm install`
+### `npm run dev`
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+### To Connet Database You should Run Server 
